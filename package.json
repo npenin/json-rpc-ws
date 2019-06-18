@@ -28,7 +28,7 @@
   "dependencies": {
     "debug": "^3.1.0",
     "uuid": "^3.3.2",
-    "ws": "^6.0.0"
+    "ws": "^7.0.1"
   },
   "pre-commit": [
     "validate",
