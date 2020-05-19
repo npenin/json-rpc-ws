@@ -7,10 +7,10 @@
   resolved "https://registry.yarnpkg.com/@babel/parser/-/parser-7.5.5.tgz#02f077ac8817d3df4a832ef59de67565e71cca4b"
   integrity sha512-E5BN68cqR7dhKan1SfqgPGhQ178bkVKpXTPEXnFJBrEt8/DKRZlybmy+IgYLTeN7tp1R5Ccmbm2rBk17sHYU3g==
 
-"@types/assert@1.4.5":
-  version "1.4.5"
-  resolved "https://registry.yarnpkg.com/@types/assert/-/assert-1.4.5.tgz#67bab70338d25f2a95030d7c93376673fbc9aca4"
-  integrity sha512-aRa7POjvDF6yrSn7lUAvbT2wB3HO/XwSVh6mGQGKSgrJWM1mPYP6uNORNexNtqAPPcfFDU2vQ/JJ+S6Z0By0mg==
+"@types/assert@1.4.7":
+  version "1.4.7"
+  resolved "https://registry.yarnpkg.com/@types/assert/-/assert-1.4.7.tgz#8add0d031e16e7ad87282f1b55c30813b4632cbd"
+  integrity sha512-CcLrcLy+7tWiGCXsWht6boJeTfq7I9uO0trcw2ohLfIXsG6N+OMfsfjIxIE51tfijUbnPQvqBUCwYDGinE+V2g==
 
 "@types/debug@4.1.5":
   version "4.1.5"
